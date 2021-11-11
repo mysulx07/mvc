@@ -1,0 +1,15 @@
+{
+    "name": "sulx/mvc",
+    "autoload": {
+        "psr-4": {
+            "Sulx\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mysulx07",
+            "email": "mysulx07@gmail.com"
+        }
+    ],
+    "require": {}
+}
